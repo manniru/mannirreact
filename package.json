@@ -3,6 +3,8 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "pdfmake": "^0.1.34",
+    "pdfmake-browserified": "^0.1.4",
     "react": "^16.1.1",
     "react-dom": "^16.1.1",
     "react-scripts": "1.0.17"
